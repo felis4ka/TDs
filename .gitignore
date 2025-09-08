@@ -1,0 +1,16 @@
+# Dossier Visual Studio
+.vs/
+ 
+# Fichiers de configuration VS
+*.user
+*.suo
+ 
+# Dossiers de build
+build/
+out/
+ 
+# Fichiers CMake générés
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
