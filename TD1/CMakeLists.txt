@@ -2,4 +2,5 @@
 #add_executable(TD1_1 exo2.c)
 #dd_executable(TD1_1 exo3.c)
 #add_executable(TD1_1 exo4.c)
-add_executable(TD1_1 exo5.c)
+#add_executable(TD1_1 exo5.c)
+add_executable(TD1_1 exo7.c)
